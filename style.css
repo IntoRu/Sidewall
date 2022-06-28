@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Fira sans", sans-serif;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #FFF;
+    background-color: #9d9d9f;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#new-task-form {
+    display: flex;
+    margin: 10px;
+
+
+}
+
+input,
+button {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+    text-align: center;
+
+}
+
+#new-task-input {
+    flex: 0.9 1 0%;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-right: 10px;
+    margin-left: 23px;
+    color: white;
+    font-size: 1.25rem;
+}
+
+
+#new-task-submit {
+    color: rgb(2, 2, 2);
+    font-size: 1.25rem;
+    font-weight: 700;
+    transition: 0.4s;
+}
+
+
+
+.infoDiv {
+    flex: 5 1 0%;
+    width: 77%;
+    margin: 0 auto;
+    max-height: 100px;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+
+
+p {
+    color: black;
+}
