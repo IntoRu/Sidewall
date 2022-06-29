@@ -491,7 +491,7 @@ const arr = [
     },
 
     {
-        name: 'osaka 90*216',
+        name: 'osaka 90*216 mezhvitrin',
         prog: 092,
         mass: 2.85,
         discription: ''
