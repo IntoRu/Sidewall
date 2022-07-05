@@ -65,14 +65,14 @@ const arr = [
 
     {
         name: 'berlino 110*216',
-        prog: 051,
+        prog: 51,
         mass: 3.9,
         discription: ''
     },
 
     {
         name: 'berlino 120*216',
-        prog: 004,
+        prog: 4,
         mass: 4.2,
         discription: ''
     },
@@ -135,7 +135,7 @@ const arr = [
 
     {
         name: 'kazan mezhvitrin 105*216',
-        prog: 090,
+        prog: 90,
         mass: 3.6,
         discription: ''
     },
@@ -261,7 +261,7 @@ const arr = [
 
     {
         name: 'snt p150 540*541',
-        prog: 093,
+        prog: 93,
         mass: 0.6,
         discription: ''
     },
@@ -310,14 +310,14 @@ const arr = [
 
     {
         name: 'bremo 216/205',
-        prog: 051,
+        prog: 51,
         mass: 3.9,
         discription: ''
     },
 
     {
         name: 'bremo 216 new',
-        prog: 002,
+        prog: 2,
         mass: 4.6,
         discription: ''
     },
@@ -387,7 +387,7 @@ const arr = [
 
     {
         name: 'ulma 3 120*221',
-        prog: 051,
+        prog: 51,
         mass: 3.9,
         discription: ''
     },
@@ -401,14 +401,14 @@ const arr = [
 
     {
         name: 'surgut',
-        prog: 004,
+        prog: 4,
         mass: 4.2,
         discription: ''
     },
 
     {
         name: 'odessa 80*190',
-        prog: 091,
+        prog: 91,
         mass: 1.85,
         discription: ''
     },
@@ -436,7 +436,7 @@ const arr = [
 
     {
         name: 'ulma 2 110*216',
-        prog: 051,
+        prog: 51,
         mass: 3.9,
         discription: ''
     },
@@ -492,7 +492,7 @@ const arr = [
 
     {
         name: 'osaka 90*216 mezhvitrin',
-        prog: 092,
+        prog: 92,
         mass: 2.85,
         discription: ''
     },
